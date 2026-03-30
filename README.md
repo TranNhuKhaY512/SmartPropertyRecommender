@@ -33,6 +33,8 @@
 - Hình ảnh minh họa cho các bất động sản được lưu tại thư mục hinhanh/
 - Dataset mẫu :
 <img width="1238" height="272" alt="image" src="https://github.com/user-attachments/assets/418fc492-6eee-4013-bcd8-fe21f0679b67" />
+- UI :
+<img width="507" height="607" alt="image" src="https://github.com/user-attachments/assets/b395a231-ca0d-4302-a303-4fdfb4d927bd" />
 
 
 ---
@@ -40,8 +42,8 @@
 #### Hướng dẫn cài đặt và chạy dự án
 1. Clone repository:
 ```Bash
-git clone [Nhập link GitHub dự án của bạn vào đây]
-cd [Tên thư mục dự án]
+git clone https://github.com/TranNhuKhaY512/Artificial_intelligence_applications.git
+cd Artificial_intelligence_applications
 ```
 2. Cài đặt các thư viện cần thiết:
 Yêu cầu hệ thống cài đặt sẵn Python 3.11. Chạy lệnh sau để cài đặt các thư viện phụ thuộc:
